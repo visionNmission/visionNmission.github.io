@@ -1,2 +1,1 @@
-# visionNmission.github.io
-my first awesome blog
+# My first awesome blog
